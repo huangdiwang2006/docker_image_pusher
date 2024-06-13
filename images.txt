@@ -1,1 +1,5 @@
 hashicorp/consul:1.15.4
+nginx
+python
+openvas
+alpine
