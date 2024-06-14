@@ -3,4 +3,4 @@ nginx
 python
 mikesplain/openvas:9
 alpine
-nodejs/node:22.3.0
+node
