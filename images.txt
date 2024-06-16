@@ -5,4 +5,4 @@ mikesplain/openvas:9
 alpine
 node
 node:20.11.1
-goharbor/harbor-exporter:2.11.0
+mysql:8
