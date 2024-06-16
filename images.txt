@@ -6,3 +6,7 @@ alpine
 node
 node:20.11.1
 mysql:8
+mongo:7.0
+postgres:13
+redis
+rabbitmq:3.13.1-management
