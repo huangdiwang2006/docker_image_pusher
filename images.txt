@@ -1,1 +1,1 @@
-doccano/doccano:nightly
+xieqiaokang/devopsgpt:py39
