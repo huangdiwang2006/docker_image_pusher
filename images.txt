@@ -11,5 +11,4 @@ postgres:13
 redis
 rabbitmq:3.13.1-management
 consul
-apache/airflow:2.8.4
-jenkins/jenkins:2.452.1-lts
+bitnami/airflow:2.8.4
