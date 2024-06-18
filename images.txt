@@ -1,2 +1,1 @@
-kong:3.6.1
-kong
+ramirk/llm_demo:latest
