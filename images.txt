@@ -1,1 +1,1 @@
-yidadaa/chatgpt-next-web
+postgres:15
