@@ -12,3 +12,10 @@ redis
 rabbitmq:3.13.1-management
 consul
 bitnami/airflow:2.8.4
+centos:centos7.9.2009
+ramirk/llm_demo:latest
+jenkins/jenkins:2.452.2-lts
+jenkins/jenkins:2.452.2-lts-jdk17
+runcitadel/prepare
+goharbor/harbor-db:v2.11.0
+rabbitmq:3.13.3-management
