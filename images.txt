@@ -1,1 +1,1 @@
-ramirk/llm_demo:latest
+nginx:1.26.1
