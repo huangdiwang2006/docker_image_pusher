@@ -1,2 +1,1 @@
-goharbor/harbor-db:v2.11.0
-rabbitmq:3.13.3-management
+runcitadel/prepare
