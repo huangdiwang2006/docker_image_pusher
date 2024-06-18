@@ -1,1 +1,2 @@
-bitnami/airflow:2.8.4
+kong:3.6.1
+kong
