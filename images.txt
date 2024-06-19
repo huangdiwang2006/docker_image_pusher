@@ -1,1 +1,1 @@
-minio/mc:latest
+tensorlake/whisper-asr-gpu:latest
