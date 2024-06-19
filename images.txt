@@ -1,1 +1,1 @@
-keycloak/keycloak:23.0.7
+minio/mc:latest
