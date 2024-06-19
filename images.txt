@@ -1,1 +1,1 @@
-bitnami/minio:latest
+colmap/colmap
