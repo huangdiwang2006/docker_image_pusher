@@ -1,1 +1,1 @@
-tomcat
+tomcat:9.0.89-jre17
