@@ -1,1 +1,1 @@
-tensorlake/whisper-asr-gpu:latest
+symbioticlab/zeus:latest
